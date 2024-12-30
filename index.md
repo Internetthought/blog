@@ -1,0 +1,4 @@
+---
+Internetthought: My thoughts on the Internet, digital, telecom, economy, life, the universe and everything
+---
+This blog is where I keep the various thoughts I have on the workings of the Internet, digital, telecom, economy, life, the universe and everything. I'm prolific with my writing on the various aspects of our digital world, but I realised that I don't have a single place where those writings come together. I write on LinkedIn, e-mail, mailinglists, BlueSky, X, Medium, Blogspot etc. I literally have to perform Google searches to find it back (or equally embarassing find that I already wrote about it a few years back, when I research it!) So the idea of this website is to be where I keep a record of the various things I write and that might be relevant to me and others in the future. 
