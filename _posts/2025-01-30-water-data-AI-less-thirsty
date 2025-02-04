@@ -1,5 +1,15 @@
 ---
-title: "AI's thirst due to misplaced comma and more errors"
+title: "Popey eating spinach or AI's thirst, a cascade of mistakes"
 date: 2025-01-30
 ---
-Did you know that Popeye ate spinach, because a German researcher misplaced a comma? What if AI's thirst can be explained by similar mistakes? The most widely cited paper on the thirst of AI is by 
+Did you know that Popeye ate spinach, because a German researcher misplaced a comma? What if AI's thirst can be explained by similar mistakes? The most widely cited paper on the thirst of AI is ("Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models")[https://arxiv.org/abs/2304.03271] by Pengfei Li, Jianyi Yang, Mohammad A. Islam, Shaolei Ren. It will soon be published in a special issue of (Communications of the ACM)[https://cacm.acm.org/]. It is widely cited, having 169 citations according to (Google Scholar)[https://scholar.google.com/scholar_lookup?arxiv_id=2304.03271]. As a Dutch academic told me; "It's been peer-reviewed", which apparently means it must be true. Except, I wonder if those computer scientists doing the peer-review for the  Association for Computing Machinery (ACM), have any strong background in evaluating water footprints. 
+
+I've expressed my concerns to the corresponding author assistant professor Shaolei Ren, University of California, Riverside. Version 4 of the paper definitely addressed some of my concerns with the earlier versions. However, as I will show here, the values he uses for water withdrawal and consumption are significantly different from those published in other literature. Through the revisions between versions 1 to 4 of the paper, I do see some changes that addressed some of the concerns I expressed with earlier versions, but not the fundamental issues. Prof. Ren responds that the values published for water withdrawal and consumption as published by the World Resource Institute are the basis for his analysis. And that is where I think the problem starts. The data by the World Resource Institute can't be correct. They are different from other academic estimates by 10x to 100x for water withdrawal and between 2 and 20x for water consumption. 
+
+My initial suspicions started because the estimates used differ from the official data by the Dutch Central Bureau of Statistics (CBS). According to the Dutch CBS the Dutch electricity sector used 10.396 billion m3 in 2016   
+
+##The different scopes of water withdrawal and water consumption
+To understand how much water datacenters use, it is necessary to understand the difference between water withdrawal and water consumption, as well as the difference between scope 1 and scope 2 for either. 
+
+
+ 
